@@ -46,12 +46,23 @@
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=henriqueeapsilva&show_icons=true&hide_rank=true&theme=gruvbox">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueeapsilva&layout=compact&theme=gruvbox">
-<br/>
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=henriqueeapsilva&show_icons=true&hide_rank=true&theme=gruvbox">
+    <br/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueeapsilva&layout=compact&theme=gruvbox">  
+</div>
+</br>
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+<hr/>
+
+<br/>
 <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=THEBOLDFONT&weight=500&size=22&duration=3500&pause=955&color=2A629A&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting+✌️;Shoot+me+a+message+on+Linkedln!" alt="Typing SVG" /></a>
 </h3>
 
+<br/>
 
