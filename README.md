@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=henriqueeapsilva.henriqueeapsilva" />
 
+![Computer Science](assets/Fitness%20&%20Self.png)
+
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=THEBOLDFONT&weight=500&size=22&duration=3500&pause=955&color=2A629A&center=true&vCenter=true&random=false&width=435&lines=Hi+There+👋;I'm+Henrique+Silva" alt="Typing SVG" /></a>
 </h1>
@@ -41,16 +43,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="left">
-  <h2>My Contributions</h2>
-  <br>
-  ![snake gif](https://github.com/henriqueeapsilva/henriqueeapsilva/blob/output/github-contribution-grid-snake.svg)
-  <br/>
-</div>
-
-<hr/>
 
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
