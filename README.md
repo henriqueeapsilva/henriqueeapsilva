@@ -53,9 +53,9 @@ Besides coding, I love to spend my time challenging myself, such as, training fo
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=henriqueeapsilva&show_icons=true&hide_rank=true&theme=gruvbox">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=henriqueeapsilva&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats">
     <br/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueeapsilva&layout=compact&theme=gruvbox">  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueeapsilva&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs">  
 </div>
 </br>
 
