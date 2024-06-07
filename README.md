@@ -12,7 +12,11 @@
 
 <div align="left">
  
-⚡ My stuff comes here
+My name is Henrique Silva, a junior software developer that loves to develop code to help people on real world problems. With a BSc on Computer Science and Engineering at Instituto Superior Técnico, I have expertise in various tech stacks such as Fullstack web development. With a view to learn and grow, I am always open to new opportunities and challenges. 
+
+Besides coding, I love to spend my time challenging myself, such as, training for a marathon or learning something new. 
+
+👇 You can find more about myself on these channels 👇
 
  </div>
  
