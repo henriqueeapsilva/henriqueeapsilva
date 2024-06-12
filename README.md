@@ -45,7 +45,7 @@ Besides coding, I love to spend my time challenging myself, such as, training fo
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=cpp,react,html,css,vscode,github,figma,git,docker,vim,clion,electron,redux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,mysql,js,c,java,vite,vue,bash,postgres,threejs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,py,typescript,mysql,js,c,java,vite,vue,bash,postgres,threejs" /><br>
 </div>
 
 <br/>
