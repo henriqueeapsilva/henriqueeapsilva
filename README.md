@@ -32,10 +32,6 @@ Besides coding, I love to spend my time challenging myself, such as, training fo
   <a href="https://www.instagram.com/henriqueeapsilva" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
-<!-- portfolio 
-    <a href="https://linkedin.com/in/henriqueeapsilva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
--->
   
 </div>
 
